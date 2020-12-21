@@ -4,7 +4,8 @@ I'm a young developer passionate about coding and learn new things.
 
 Mexico based 🇲🇽!
 
-Let's work together: (diegoeduardo.rosas97@gmail.com)[mailto:diegoeduardo.rosas97@gmail.com]
+> Let's work together: 📧 diegoeduardo.rosas97@gmail.com
+
 
 <!--
 **DiegoRosas12/DiegoRosas12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
