@@ -1,6 +1,6 @@
 ### Hi there im Diego Rosas
 
-I'm a young developer. Description in progress... 
+I'm a young developer passionate about coding and learn new things. 
 
 <!--
 **DiegoRosas12/DiegoRosas12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
