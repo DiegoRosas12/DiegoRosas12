@@ -1,6 +1,6 @@
 ### Hi there im Diego Rosas
 
-I'm a young developer passionate about coding and learn new things.
+I'm a developer passionate about coding and learn new things.
 
 Mexico based 🇲🇽!
 
